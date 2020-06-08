@@ -20,3 +20,6 @@ The three questions that will be addressed in this article are:
 
 ### Instructions to use the code
 One can obtain the results by compiling the stackoverflow_annual_survey_analysis.ipynb Jupyter Notebook, although before doing this, the three files in data folder have to be decompressed.
+
+### Further information
+In order to read an explanation of the figures here obtained, please go to my [published article](https://medium.com/@josem5garcialopez/what-is-the-evolution-of-programming-languages-in-the-last-3-years-f507aa99f787) 
