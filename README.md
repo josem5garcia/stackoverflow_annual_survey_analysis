@@ -15,8 +15,17 @@ The three questions that will be addressed in this article are:
 2 - What has been the evolution of the most wanted programming languages during the last years?
 3 - Relationship between company size and most used programming languages during 2019?
 
+The results obtained are that JavaScript, SQL and HTML/CSS are the most commonly used programming languages; JavaScript, Python and HTML/CSS the most wanted to learn; and no relationship between used programming and organization size has been found.
+
 ### Files in the repository
 - stackoverflow_annual_survey_analysis.ipynb
+
+### Libraries
+- matplotlib.pyplot
+- numpy
+- pandas
+- collections
+- seaborn
 
 ### Instructions to use the code
 One can obtain the results by compiling the stackoverflow_annual_survey_analysis.ipynb Jupyter Notebook, although before doing this, the three files in data folder have to be decompressed.
